@@ -16,8 +16,4 @@
       <ProjectReference Include="..\DBMessage\DBMessage.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Model" />
-    </ItemGroup>
-
 </Project>
